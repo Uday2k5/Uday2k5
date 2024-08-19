@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and web development 
 - 🌱 I’m currently learning DSA in cpp and full stack web development
 - 💞️ I’m looking to collaborate on different projects where I can contribute
-- 📫 How to reach me  LinkedIn: www.linkedin.com/in/that-01-guy
+- 📫 Connect with me on LinkedIn: www.linkedin.com/in/that-01-guy
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
