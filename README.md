@@ -4,7 +4,7 @@
 - 💪 I’m looking to collaborate on different projects where I can contribute
 - 📫 Connect with me on LinkedIn: www.linkedin.com/in/that-01-guy
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+
 
 <!---
 Uday2k5/Uday2k5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
